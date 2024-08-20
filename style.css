@@ -1,22 +1,35 @@
 h1
 {
+   font-size: 40px;
     font-weight: bold;
     color: rgba(150,25,150,0.9);
 }
 h2
 {
+   
     color: rgba(200,25,200,0.7);
 }
 body
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px 300px;
+    box-sizing: border-box;
+    padding:10px 36px;
+    border: 2px dashed lightpink;
 }
 p
 {
-    background-color: hsl(69, 85%, 50%);
+    background-color: hsl(298, 89%, 72%);
+    width: 450px;
+    text-align: center;
+    padding: 2px;
 }
 img
 {
     height: 300px;
-    width: auto;
+    width: 450px;
+}
+li
+{
+    padding: 2px;
 }
